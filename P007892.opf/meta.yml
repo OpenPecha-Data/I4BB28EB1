@@ -10,11 +10,13 @@ source_metadata:
       title: ''
       volume_number: 1
       total_pages: 712
+      base_file: v001.txt
     3b5b4ddc5aec4470b3e5d1077000974b:
       image_group_id: I5165
       title: ''
       volume_number: 2
       total_pages: 616
+      base_file: v002.txt
 ebook_metadata:
   title: གསུང་འབུམ། མཁྱེན་རབ་བསྟན་པ་ཆོས་འཕེལ།
   author: ''
